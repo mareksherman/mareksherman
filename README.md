@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with [Classipy](https://github.com/mareksherman/classipy)
 
+- 🌱 I’m currently learning **More about all I have learned in the Data Science Course at Le Wagon**
+
 - 📫 How to reach me **marek.sherman@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mareksherman/](https://www.linkedin.com/in/mareksherman/)
